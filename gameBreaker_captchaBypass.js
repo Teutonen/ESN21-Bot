@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Energy Star Night 2021 Game Bot
-// @namespace    https://github.com/ggmanugg/energyair_bot/blob/master/energyairbot.user.js
+// @namespace    https://github.com/Teutonen/ESN21-Bot/blob/edfd83f08927570cd51bbd7dc97568b1cff7e8d9/gameBreaker_captchaBypass
 // @version      0.2
 // @description  Win tickets for the Energy Star Night 2021
 // @author       Teutonen https://github.com/teutonen
